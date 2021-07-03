@@ -3,8 +3,10 @@ bokeh
 elasticsearch
 finance-datareader
 finnhub-python
+html5lib
 ipython-sql
 jupyterlab
+lxml
 matplotlib
 mysqlclient
 pandas
