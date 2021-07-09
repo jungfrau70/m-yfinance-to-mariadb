@@ -1,1 +1,6 @@
 venv/*
+.idea/*
+.ipynb_checkpoints/*
+Investar/.ipynb_checkpoints/*
+pd/.ipynb_checkpoints/*
+ts/.ipynb_checkpoints/*

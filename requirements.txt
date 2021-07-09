@@ -8,12 +8,14 @@ ipython-sql
 jupyterlab
 lxml
 matplotlib
+mplfinance
 mysqlclient
 pandas
 pandas-datareader
 plotly
 pyhive[presto]
 pymysql
+seaborn
 sqlalchemy
 tqdm
 yahoo_earnings_calendar

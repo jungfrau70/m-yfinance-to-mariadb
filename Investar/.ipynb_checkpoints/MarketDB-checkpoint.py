@@ -4,7 +4,7 @@ import pandas as pd
 #from urllib.request import urlopen
 import pymysql
 #import time
-#import pandas.io.sql as sql
+#import pd.io.sql as sql
 from datetime import datetime
 #from threading import Timer
 #import matplotlib.pyplot as plt
