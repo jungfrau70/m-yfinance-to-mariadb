@@ -1,7 +1,0 @@
-elasticsearch
-jupyterlab
-matplotlib
-pandas
-pandas-datareader
-plotly
-yfinance
