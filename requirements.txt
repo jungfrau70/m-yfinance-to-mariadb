@@ -10,6 +10,7 @@ lxml
 matplotlib
 mplfinance
 mysqlclient
+openpyxl
 pandas
 pandas-datareader
 plotly
@@ -18,5 +19,6 @@ pymysql
 seaborn
 sqlalchemy
 tqdm
+xlrd
 yahoo_earnings_calendar
 yfinance
